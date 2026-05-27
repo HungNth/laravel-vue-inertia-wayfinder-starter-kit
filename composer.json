@@ -1,12 +1,17 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "hungnth/laravel-starter-kit-vue-inertia-wayfinder",
-    "version": "1.0.0",
+    "name": "hungnth/laravel-vue-inertia-wayfinder-starter-kit",
     "type": "project",
     "description": "The skeleton application for the Laravel framework.",
     "keywords": [
         "laravel",
         "framework"
+    ],
+    "authors": [
+        {
+            "name": "HungNth",
+            "email": "thienhungdev@gmail.com"
+        }
     ],
     "license": "MIT",
     "require": {
